@@ -1,1 +1,3 @@
 # Technocolabs-software-Inc-Internship
+
+I have successfully conducted sales analysis for Big Mart using advanced machine learning techniques. The project involved comprehensive tasks such as data understanding, cleaning, preparation, visualization, and the creation of new variables. I applied feature encoding, selection, and built predictive models using Python, leveraging my expertise in Python programming and statistics. To showcase my proficiency in version control, I utilized Github for seamless collaboration. Additionally, I carried out Mortgage-backed securities prepayment risk analysis, employing similar ML techniques to understand and model prepayment risk. The analysis encompassed the entire data pipeline, from data preparation to model deployment using flask. 
